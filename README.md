@@ -1,5 +1,8 @@
 # Deploying to AWS with Terraform and Ansible Repo
 
+![image](https://github.com/user-attachments/assets/d06f6516-cd5c-491e-bd0c-b5f9db7b4e80)
+
+
 This repo will contain code used and taught in the A Cloud Guru course named above.
 
 This course was originally created before Terrafom 0.13 was released however I have updated it to work with version 0.13 in the `terraform_v13_compatible_code` folder.
